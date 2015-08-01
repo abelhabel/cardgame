@@ -1,0 +1,1 @@
+{"title":"Storm","img":"","description":"Summon a storm that last for several turns. Each turn it sweeps away one of your opponent's cards.","school":"Destruction","energyCost":4,"duration":3,"castTime":3,"onCast":[{"onCast":"destroyCard","target":"Opponent card","targetStat":"none","targetStatValue":"0"}]}

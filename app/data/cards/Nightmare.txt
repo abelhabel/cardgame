@@ -1,0 +1,1 @@
+{"title":"Nightmare","img":"http://www.prepressed.se/Games/cardgame/img/SSAD_0001.jpg","description":"Horrible dreams","energyCost":2,"duration":1,"protection":1,"castTime":3,"onCast":{"onCast":"decreaseStat","target":"Opponent","targetStat":"energyPerTurn","targetStatValue":"1"}}

@@ -1,0 +1,1 @@
+{"title":"Hold","img":"","description":"Put your opponent in a state of delay, causing all the opponents cards to take one turn longer to cast.","school":"Curse","energyCost":4,"duration":1,"castTime":2,"onCast":[{"onCast":"increaseStat","target":"Opponent","targetStat":"globalCastTime","targetStatValue":"1"}]}

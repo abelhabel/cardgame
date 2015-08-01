@@ -1,0 +1,1 @@
+{"title":"Expand magic","img":"http://www.prepressed.se/Games/cardgame/","description":"Extend your active card slots by two.","school":"Illusion","energyCost":3,"duration":3,"protection":0,"castTime":2,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"activeCardSlots","targetStatValue":"2"}]}

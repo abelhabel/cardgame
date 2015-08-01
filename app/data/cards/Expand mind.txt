@@ -1,0 +1,1 @@
+{"title":"Expand mind","img":"http://www.prepressed.se/Games/cardgame/","description":"Give yourself a wider array of cards to activate from.","school":"Illusion","energyCost":3,"duration":3,"protection":0,"castTime":3,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"closedCardSlots","targetStatValue":"3"}]}

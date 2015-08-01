@@ -1,0 +1,1 @@
+{"title":"Simulacrum","img":"http://www.prepressed.se/Games/cardgame/","description":"Make a copy of the spells you cast and immediately cast them again, while this card is active.","school":"Illusion","onCast":[{"onCast":"repeatAction","target":"Self","targetStat":"none","targetStatValue":"0"}]}

@@ -1,0 +1,1 @@
+{"title":"Heal","img":"","description":"Heal yourself!","school":"Blessing","energyCost":4,"castTime":0,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"currentHealth","targetStatValue":"4"}]}

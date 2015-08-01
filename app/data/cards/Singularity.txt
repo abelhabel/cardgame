@@ -1,0 +1,1 @@
+{"title":"Singularity","img":"http://www.prepressed.se/Games/cardgame/","description":"Disable the combination of cards for both you and your opponent.","school":"Harmony","onCast":[{"onCast":"disableStat","target":"Self","targetStat":"canCombineCards","targetStatValue":"0"},{"onCast":"disableStat","target":"Opponent","targetStat":"canCombineCards","targetStatValue":"0"}]}

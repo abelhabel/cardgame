@@ -1,0 +1,1 @@
+{"title":"Mute","img":"","description":"Invoke a sphere of silence to substantially decrease yours and your opponents maximum energy.","school":"Harmony","energyCost":1,"castTime":1,"onCast":[{"onCast":"decreaseStat","target":"Self","targetStat":"maxEnergy","targetStatValue":"5"},{"onCast":"decreaseStat","target":"Opponent","targetStat":"maxEnergy","targetStatValue":"5"}]}

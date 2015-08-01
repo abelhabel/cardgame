@@ -1,0 +1,1 @@
+{"title":"Fear","img":"","description":"Summoned creatures run away in fear.","school":"Destruction","energyCost":4,"castTime":1,"onCast":[{"onCast":"destroyCard","target":"Opponent card","targetStat":"conjuration","targetStatValue":"0"}]}

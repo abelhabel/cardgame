@@ -1,0 +1,1 @@
+{"title":"Stone skin","img":"http://www.prepressed.se/Games/cardgame/","description":"Encase yourself in a thick skin of stone that protects you from harm for several turns.","school":"Blessing","energyCost":2,"duration":3,"castTime":2,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"damageReduction","targetStatValue":"1"}]}

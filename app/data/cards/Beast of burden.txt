@@ -1,0 +1,1 @@
+{"title":"Beast of burden","img":"http://www.prepressed.se/Games/cardgame/","description":"Encumber your opponent, causing your opponent to have a reduced number of closed card slots.","school":"Illusion","energyCost":3,"duration":0,"protection":0,"castTime":2,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"activeCardSlots","targetStatValue":"1"}]}

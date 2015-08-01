@@ -1,0 +1,1 @@
+{"title":"Forgetfulness","img":"","description":"Disable your opponent from buying new minions for the duration of the spell","school":"Curse","energyCost":2,"duration":1,"castTime":2,"onCast":[{"onCast":"disableStat","target":"Opponent","targetStat":"canBuyMinion","targetStatValue":"0"}]}

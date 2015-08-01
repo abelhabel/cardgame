@@ -1,0 +1,1 @@
+{"title":"Well of souls","img":"","description":"Tap into the magical tapestry to refuel your soul.","school":"Blessing","energyCost":1,"duration":3,"castTime":3,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"energyPerTurn","targetStatValue":"1"}]}

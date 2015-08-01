@@ -1,0 +1,197 @@
+body
+{
+    background-color: rgb(15, 115, 216);
+    font-family: 'Quattrocento Sans', sans-serif;
+    cursor: default;
+}
+.floatingHint
+{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border: 6px solid white;
+    border-radius: 6px;
+    background-color: black;
+    color: white;
+    width: 256px;
+    height: 196px;
+}
+#P1container
+{
+    min-height: 400px;
+    margin: 5px;
+    width: 100%;
+    height: 45%;
+}
+#P2container
+{
+    min-height: 400px;
+    margin: 5px;
+    width: 100%;
+    height: 45%;
+}
+.hidePage
+{
+    display: none;
+}
+.showPage
+{
+    display: block;
+}
+#loginPage
+{
+    
+}
+#findGame
+{
+    cursor: pointer;
+    margin: auto;
+    margin-top: 12px;
+    padding: 12px;
+    width: 258px;
+    font-size: 32px;
+    font-weight:bold;
+    color: white;
+    border: 3px solid white;
+    border-radius: 3px;
+    text-align: center;
+}
+#p1, #p2
+{
+    color: red;
+}
+
+.closedCardsContainer
+{
+    display: table;
+    margin: 0 auto;
+}
+.activeCardsContainer
+{
+    display: table;
+    margin: 0 auto;
+}
+.closedCardSlot
+{
+    position: relative;
+    background-color: rgba(25,56,67,0.2);
+    display: block;
+    float: left;
+    width: 120px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 1px;
+}
+.activeCardSlot
+{
+    position: relative;
+    background-color: rgba(15,156,67,0.2);
+    display: block;
+    float: left;
+    width: 120px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 1px;
+}
+.chooseCardSlot
+{
+    position: relative;
+    background-color: rgba(15,156,67,0.2);
+    background-image: url(https://www.prepressed.se/Games/cardgame/img/cardframe.png);
+    background-size: contain;
+    display: block;
+    float: left;
+    width: 120px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 1px;
+}
+.cardTitle
+{
+	position: relative;
+	font-size: 12px;
+	margin: auto;
+	width: 80%;
+	height: 12px;
+	text-align: center;
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+.cardImage
+{
+	background-size: contain;
+	width: 80%;
+	height: 40%;
+	min-height:60px;
+	margin: auto;
+	border: 1px solid black;
+	border-radius: 2px;
+	margin-bottom: 6px;
+}
+.cardDescription
+{
+	width: 80%;
+	height: 20%;
+	margin: auto;
+	font-size: 10px;
+	margin-bottom: 6px;
+	overflow-y: hidden;
+}
+.energyCost
+{
+    position: absolute;
+    display: block;
+    bottom: 6px;
+    left: 6px;
+    font-size: 12px;
+    width: 12px;
+    height: 12px;
+    color: red;
+}
+.castTime
+{
+    position: absolute;
+    display: block;
+    bottom: 6px;
+    left: 18px;
+    font-size: 12px;
+    width: 12px;
+    height: 12px;
+    color: red;
+}
+.duration
+{
+    position: absolute;
+    display: block;
+    bottom: 6px;
+    left: 30px;
+    font-size: 12px;
+    width: 12px;
+    height: 12px;
+    color: red;
+}
+.protection
+{
+    position: absolute;
+    display: block;
+    bottom: 6px;
+    left: 42px;
+    font-size: 12px;
+    width: 12px;
+    height: 12px;
+    color: red;
+}
+.chosenCard
+{
+    background-color: rgba(15,156,67,0.4);
+}
+#P1name,#P2name
+{
+    width: 64px;
+    height: 14px;
+    border: 1px solid black;
+    border-radius: 2px;
+}

@@ -1,0 +1,1 @@
+{"title":"Halt","img":"","description":"Disable regeneration of health for both you and your opponent for a short duration","school":"Harmony","energyCost":1,"duration":1,"onCast":[{"onCast":"disableStat","target":"Self","targetStat":"healthPerTurn","targetStatValue":"0"},{"onCast":"disableStat","target":"Opponent","targetStat":"healthPerTurn","targetStatValue":"0"}]}

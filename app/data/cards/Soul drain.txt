@@ -1,0 +1,1 @@
+{"title":"Soul drain","img":"","description":"Drain the soul of your opponent, making the opponent lose energy.","school":"Curse","energyCost":2,"castTime":2,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"currentEnergy","targetStatValue":"3"}]}

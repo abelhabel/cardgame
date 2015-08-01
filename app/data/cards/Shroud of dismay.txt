@@ -1,0 +1,1 @@
+{"title":"Shroud of dismay","img":"","description":"Weaken your opponent for a short while, making all the opponent's cards less effective","school":"Curse","energyCost":4,"duration":2,"castTime":2,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"damageBonus","targetStatValue":"1"}]}

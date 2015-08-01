@@ -1,0 +1,1 @@
+{"title":"Mirrage","img":"http://www.prepressed.se/Games/cardgame/","description":"Fool your opponent to think your cards are other than what they are","school":"Illusion","onCast":[{"onCast":"scrambleCards","target":"Own card","targetStat":"none","targetStatValue":"0"}]}

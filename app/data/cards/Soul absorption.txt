@@ -1,0 +1,1 @@
+{"title":"Soul absorption","img":"","description":"Reach through the veil of the cosmos to steal energy from your opponent.","school":"Destruction","energyCost":1,"castTime":3,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"currentEnergy","targetStatValue":"3"},{"onCast":"increaseStat","target":"Self","targetStat":"currentEnergy","targetStatValue":"3"}]}

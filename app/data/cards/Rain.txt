@@ -1,0 +1,1 @@
+{"title":"Rain","img":"","description":"Type a lengthy description here to give the card some flavor","school":"Destruction","onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"maxHealth","targetStatValue":"2"},{"onCast":"decreaseStat","target":"Opponent","targetStat":"maxHealth","targetStatValue":"2"}]}

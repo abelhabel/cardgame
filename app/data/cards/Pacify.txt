@@ -1,0 +1,1 @@
+{"title":"Pacify","img":"","description":"Calling on peace you disable all cards to be cast for both yourself and your opponent.","school":"Harmony","energyCost":4,"duration":1,"onCast":[{"onCast":"disableStat","target":"Self","targetStat":"canCastCards","targetStatValue":"0"},{"onCast":"disableStat","target":"Opponent","targetStat":"canCastCards","targetStatValue":"0"}]}

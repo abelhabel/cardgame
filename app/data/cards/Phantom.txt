@@ -1,0 +1,1 @@
+{"title":"Phantom","img":"http://www.prepressed.se/Games/cardgame/","description":"Summon a random minion to fight for you","school":"Illusion","onCast":[{"onCast":"summonMinion","target":"Self","targetStat":"none","targetStatValue":"0"}]}

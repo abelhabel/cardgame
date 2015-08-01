@@ -1,0 +1,1 @@
+{"title":"Vortex","img":"http://www.prepressed.se/Games/cardgame/","description":"Create a chaotic field of energy that takes energy from your opponent over time.","school":"Illusion","onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"currentEnergy","targetStatValue":"2"}]}

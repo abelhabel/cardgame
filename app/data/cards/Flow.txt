@@ -1,0 +1,1 @@
+{"title":"Flow","img":"","description":"Focus some of your energy internally to regain the double amount one turn later.","school":"Blessing","energyCost":2,"duration":3,"castTime":1,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"currentHealth","targetStatValue":"4"}]}

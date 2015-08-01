@@ -1,0 +1,1 @@
+{"title":"Firebolt","img":"","description":"A flame shaped like a bolt launches forward to deal a small amount of damage to the target","school":"Destruction","energyCost":1,"castTime":1,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"currentHealth","targetStatValue":"1"}]}

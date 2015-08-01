@@ -1,0 +1,1 @@
+{"title":"Overlord","img":"","description":"Reach out into the fabrics of chaos and order to seek its powers. After successfully cast, Overlord reduces your cast time for all cards by 1 for a medium duration.","school":"Blessing","energyCost":4,"duration":2,"castTime":4,"onCast":[{"onCast":"decreaseStat","target":"Self","targetStat":"globalCastTime","targetStatValue":"1"}]}

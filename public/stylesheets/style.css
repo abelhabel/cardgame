@@ -1,0 +1,124 @@
+body
+{
+	-webkit-user-select: none;
+}
+
+#table
+{
+	/*background-image: url('img/table.png');*/
+	background-size: cover;
+	margin: auto;
+	/*width: 800px;
+	height:800px;*/
+}
+
+.cardFrame
+{
+	background-image: url('img/paper.png');
+	background-size: cover;
+	position: absolute;
+	width: 240px;
+    min-height: 400px;
+	border-radius: 10px;
+	border: 2px solid black;
+}
+.cardTitle
+{
+	position: relative;
+	font-size: 24px;
+	margin: auto;
+	width: 80%;
+	height: 24px;
+	text-align: center;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+.cardImage
+{
+	background-size: contain;
+	width: 80%;
+	height: 40%;
+	min-height:120px;
+	margin: auto;
+	border: 1px solid black;
+	border-radius: 4px;
+	margin-bottom: 12px;
+}
+.cardDescription
+{
+	width: 80%;
+	height: 20%;
+	margin: auto;
+	font-size: 12px;
+	margin-bottom: 12px;
+}
+.cardFooter
+{
+	width: 90%;
+	height: 24px;
+	margin: auto;
+}
+.uiBox
+{
+	position: absolute;
+	max-width: 800px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+.uiBox div
+{
+	position: relative;
+	width: 128px;
+	height: 128px;
+	float: left;
+	border: 1px solid black;
+}
+.cardPropertyText
+{
+	width: 80%;
+	height: 16px;
+	font-size: 10px;
+	margin-left: 22px;
+}
+.cardProperty
+{
+    background-color: white;
+	background-size: cover;
+	width: 16px;
+	height: 16px;
+	float: left;
+	color: black;
+	text-align: center;
+}
+.listClass
+{
+    width:100%;
+}
+table
+{
+    width: 98%;
+    margin: auto;
+}
+tr
+{
+    width: 100%;
+    margin: auto;
+}
+td
+{
+    width: 50%;
+    height: 16px;
+    border: 1px solid black;
+}
+/*#powerIcon*/
+/*{*/
+/*	background-image: url('img/powericon.png');*/
+/*}*/
+/*#typeIcon*/
+/*{*/
+/*	background-image: url('img/typeicon.png');*/
+/*}*/
+/*#castTimeIcon*/
+/*{*/
+/*	background-image: url('img/casttimeicon.png');*/
+/*}*/

@@ -1,0 +1,1 @@
+{"title":"Expand time","img":"http://www.prepressed.se/Games/cardgame/","description":"Make it look like your cards take longer to cast than what they in reality do.","school":"Illusion","energyCost":3,"duration":3,"protection":0,"castTime":0,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"globalCastTime","targetStatValue":"1"}]}

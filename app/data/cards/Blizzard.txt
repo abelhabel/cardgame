@@ -1,0 +1,1 @@
+{"title":"Blizzard","img":"https://www.prepressed.se/Games/cardgame/img/welcome_to_air.jpg","description":"Summon a ferocious ice storm that damages your opponent over several turns..","school":"Destruction","energyCost":3,"duration":3,"protection":0,"castTime":2,"onCast":[{"onCast":"decreaseStat","target":"Opponent","targetStat":"currentHealth","targetStatValue":"1"}]}

@@ -1,0 +1,1 @@
+{"title":"Summon Trolls","img":"http://www.prepressed.se/Games/cardgame/img/dance_with_me_michael.jpg","description":"Summons a bunch of trollst to fight for you","school":"Conjuration","energyCost":2,"duration":3,"protection":0,"castTime":2,"onCast":[{"onCast":"increaseStat","target":"Self","targetStat":"currentHealth","targetStatValue":"1"}]}
